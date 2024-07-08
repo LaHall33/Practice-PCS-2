@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Registration Form" />
+    <title>Registration Form</title>
+  </head>
+  <body>
+    <h1>My Registration Form</h1>
+    <br />
+    <div id="registration"></div>
+    <form>
+      <div>
+        <label for="first-name">First Name:</label>
+        <input type="text" name="first-name" id="first-name" /><br /><br />
+
+        <label for="last-name">Last Name:</label>
+        <input type="text" name="last-name" id="last-name" /><br /><br />
+
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email" /><br /><br />
+
+        <label for="password">Password:</label>
+        <input type="password" name="password" id="password" /><br /><br />
+
+        <label for="password confirmation">PW Confirm:</label>
+        <input
+          type="password"
+          name="password confirmation"
+          id="password confirmation"
+        /><br /><br />
+
+        <label for="birthday">Birthday</label>
+        <input type="date" name="birthday" id="birthday" /><br /><br />
+      </div>
+      <fieldset>
+        <input type="radio" name="gender" id="male" />
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female" />
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="other" />
+        <label for="other">Other</label>
+      </fieldset>
+      <br />
+
+      <label for="comments">A short description about yourself:</label><br />
+      <textarea name="comments" id="comments"></textarea><br /><br />
+
+      <label for="language">Favorite Language:</label>
+      <select name="language" id="language">
+        <option value="javascript">JavaScript</option>
+        <option value="python">Python</option>
+      </select>
+      <br /><br />
+
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
