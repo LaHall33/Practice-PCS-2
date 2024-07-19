@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./beltexam.css" />
+    <link rel="stylesheet" href="./normalize.css" />
+    <title>Belt Exam</title>
+  </head>
+  <body>
+    <div class="bg-purple headerheight"></div>
+    <div class="top-nav d-flex bg-black text-white">
+      <div class="d-flex">
+        <h1 class="large-text topic">GamingDojo</h1>
+      </div>
+
+      <div class="d-flex">
+        <select name="language" id="language">
+          <option value="euro">Euro €</option>
+          <option value="dollar">Dollar $</option>
+        </select>
+        <img
+          src="./images/cart-light.png"
+          alt="Shopping Cart"
+          class="mediumicon"
+        />
+        <h2><span id="like-button">0</span></h2>
+        <img
+          src="./images/search-light.png"
+          alt="Search Button"
+          class="mediumicon"
+        />
+      </div>
+    </div>
+
+    <div class="container">
+      <main>
+        <h2 class="larger-text">Highlights</h2>
+        <div class="d-flex">
+          <img
+            src="./images/chevron-left.png"
+            alt="Left arrow"
+            class="arrowpadding"
+          />
+
+          <div class="image-container">
+            <img
+              src="./images/stonepunk.png"
+              alt="Stonepunk Photo"
+              class="largeimage visible imgs"
+            />
+          </div>
+
+          
+            <div>
+                <button onclick="nextImage()"></button>
+              <img
+                src="./images/chevron-left.png"
+                alt="Right arrow"
+                class="reversearrow arrowpadding"
+              />
+            </div>
+          
+        </div>
+
+        <div class="s-flex">
+          <div class="seperator bg-grey"></div>
+          <div class="seperator bg-purple"></div>
+          <div class="seperator bg-grey"></div>
+          <div class="seperator bg-grey"></div>
+        </div>
+
+        <div class="d-flex">
+          <div class="box1 contentmargins">
+            <img
+              src="./images/cafe-neko.png"
+              alt="Cafe Neko: Gold Edition"
+              class="smallimage"
+            />
+
+            <h2>Cafe Neko: Gold Edition</h2>
+
+            <div>
+              <img
+                src="./images/windows.png"
+                alt="Windows icon"
+                class="smallicon"
+              />
+              <img
+                src="./images/apple.png"
+                alt="Apple icon"
+                class="smallicon"
+              />
+            </div>
+
+            <div class="d-flex">
+              <h2 class="bg-purple percentSize extra-padding">-20%</h2>
+              <p>€14.98<br />€10.49</p>
+         
+              <button
+                class="btn bg-green text-white boldText extra-padding"
+                onclick="addingUp('like-button')"
+              >
+                Buy
+              </button>
+            </div>
+          </div>
+
+          <div class="box2 contentmargins">
+            <img
+              src="./images/pixel-ninjas-2.png"
+              alt="Pixel Ninjas 2"
+              class="smallimage"
+            />
+
+            <h2>Pixel Ninjas 2</h2>
+
+            <div>
+              <img
+                src="./images/windows.png"
+                alt="Windows icon"
+                class="smallicon"
+              />
+              <img
+                src="./images/apple.png"
+                alt="Apple icon"
+                class="smallicon"
+              />
+            </div>
+
+            <div class="d-flex">
+              <h2 class="bg-purple percentSize extra-padding">-10%</h2>
+              <p>€8.19<br />€7.39</p>
+
+              <button
+                class="btn bg-green text-white boldText extra-padding"
+                onclick="addingUp('like-button')"
+              >
+                Buy
+              </button>
+            </div>
+          </div>
+
+          <div class="box3 contentmargins">
+            <img
+              src="./images/stonepunk.png"
+              alt="Stonepunk 10000 BCE"
+              class="smallimage"
+            />
+
+            <h2>Stonepunk 10000 BCE</h2>
+
+            <div>
+              <img
+                src="./images/windows.png"
+                alt="Windows icon"
+                class="smallicon"
+              />
+              <img
+                src="./images/apple.png"
+                alt="Apple icon"
+                class="smallicon"
+              />
+              <button>
+                  <img
+                    src="./images/linux.png"
+                    alt="Linux icon"
+                    class="smallicon"
+                    onclick="alertSearch()">
+                  
+              </button>
+
+          
+
+            </div>
+
+            <div class="d-flex">
+              <h2 class="bg-purple percentSize extra-padding">NEW</h2>
+              <p>€19.99</p>
+              <button
+                class="btn bg-green text-white boldText extra-padding"
+                onclick="addingUp('like-button')"
+              >
+                Buy
+              </button>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,224 @@
+.container{
+    width: 1000px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.top-nav {
+    height: 70px;
+    background-color: rgb(24, 24, 24);
+    margin-bottom: 20px;
+}
+
+.top-nav h1 {
+    font-size: 35px;
+    color: white;
+    display: inline-block;
+    justify-content: flex-start;
+    margin: 0px;
+    padding: 20px;
+}
+
+ul {
+    
+    list-style: none;
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul > li {
+    font: bolder;
+    color: white;
+    margin-right: 20px;
+    display: inline;
+}
+
+ul  li::after {
+    content: '|';
+    padding-left: 10px;
+}
+
+.top-nav ul li a {
+    color: white;
+}
+
+.main {
+    height: 700px;
+    width: 600px;
+    background-color: darkgrey;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.card1 {
+    margin-top: 20px;
+    height: 320px;
+    width: 570px;
+    background-color: white;
+    border: 5px solid grey;
+    display: flex;
+}
+
+.card-header {
+    height: 100px;
+    min-width: 570px;
+    background-color: teal; 
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.profile-pic {
+    width: 80px;
+    border-radius: 50%;
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+.map-marker, h3 {
+    height: 25px;
+    width: 15px;
+    display: inline-flex;
+    padding-left: 30px
+}
+
+h3 {
+    font-size: x-large;
+    display: inline
+}
+
+.card-header > div {
+    margin-left: 17px;
+    padding-top: 15px;
+    font-size: larger;
+}
+
+.education-box {
+    margin-top: 20px;
+    height: 250px;
+    width: 570px;
+    background-color: white;
+    border: 5px solid grey;
+    display: flex;
+}
+
+.education-header {
+    height: 60px;
+    min-width: 570px;
+    background-color: grey;
+}
+
+.education-box > div {
+    min-height: 20px;
+    display: inline-block;
+}
+
+.education-box div p {
+    padding-left: 50px;
+}
+
+aside {
+    background-color: darkgrey;
+    height: 700px;
+    width: 355px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+.request-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.request-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 255px;
+    width: 320px;
+    background-color: white;
+    border: 5px solid grey;
+    display: flex;
+}
+
+.request-header ,
+.connections-header {
+    height: 48px;
+    min-width: 320px;
+    background-color: grey;
+    position: absolute;
+    display: flex;
+}
+
+.connection-request {
+    margin-top: 50px;
+    display: flex;
+    padding-left: 20px;
+    justify-content: center;
+}
+
+.connection-request h2 {
+    font-size: large;
+    margin-top: 20px;
+}
+
+.profile-pic-small {
+    max-height: 60px;
+    margin: 5px;
+    padding: 0px;
+    border-radius: 50%;
+    border-image: solid;
+}
+
+.accept-btn, .decline-btn {
+    height: 50px;
+    width: 50px;
+    max-width: 60px;
+    background: none;
+    border: none;
+    margin: 5px;
+    justify-content: center;
+}
+
+.circle {
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px;
+    text-align: center;
+  }
+
+.connections-box {
+    height: 250px;
+    width: 320px;
+    background-color: white
+    margin-top: 25px;
+    border: 5px solid grey;
+    display: flex;
+}
+
+ .your-connections img{
+   margin-top: 50px;
+   display: block;
+}
+
+.your-connections h2 {
+    display: block;
+    font-size: larger;
+   padding-top: 10px;
+   margin-left: 10px;
+}
+.your-connections {
+    background-color: white;
+    width: 320px;
+    height: 200px;
+    margin-top: 20px;
+}

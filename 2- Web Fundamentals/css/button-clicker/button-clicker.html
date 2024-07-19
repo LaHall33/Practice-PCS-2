@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./button-clicker.css">
+    <link rel="stylesheet" href="./normalize.css">
+    <title>Button Clicker</title>
+</head>
+<body>
+    <div class="container">
+        <div class="top-nav d-flex">
+            <h1>Dojonary</h1>
+                <input
+                type="text"
+                name="search"
+                id="search"
+                class="search border"
+                placeholder="search" />
+            <button type="button" id="LoginButton" onclick="changeText()"
+             class="btn bg-blue box-shadow text-white">Login</button>
+        </div>
+    </div>
+
+    <div class="container d-flex">  
+        <main>
+            <div class="card1 ">
+                <div class="card-body d-flex">
+                    <div class="d-flex column gap-sm">
+                      <h2 class="larger-text">ninja</h2>
+                      <h3 class="italic">noun</h3>
+                      <p>Plural: ninjas</p>
+                        <button onclick="alert('Ninja was liked')" 
+                        class="bg-orange box-shadow btn">13 likes
+                        </button>
+                    </div>
+                    <p class="large-text">A practitioner skilled in the <a href="#">
+                        Japanese</a> art of <a href="#">ninjutsu</a>
+                    </p>
+                </div>
+            </div>
+                    
+
+            <div class="card1">
+                <div class="card-body d-flex">
+                    <div class="up-votes d-flex column gap-sm">
+                      <h2 class="larger-text">ninja</h2>
+                      <h3 class="italic">noun</h3>
+                      <p>Plural: ninjas</p>
+                        <button onclick="alert('Ninja was liked')"
+                        class="bg-orange box-shadow btn">37 likes
+                        </button>
+                    </div>
+                    <p class="large-text">A <a href="#">programmer</a> who breaks down
+                        problems with <a href="#">zen</a>-like focus
+                    </p>
+                </div>
+            </div>
+        
+        </main>
+
+        <aside>
+            <div class="card1">
+                <h2>Dojonary is defined by YOU </h2>
+                <button type="button" id="addDefinition" onclick="removeButton()"
+                class="definitionButton bg-green btn box-shadow">Add Definition</button>
+            </div>
+        </aside>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

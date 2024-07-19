@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  font-family: 'Balsamiq Sans', sans-serif;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+.italic {
+    font-style: italic;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.gap-sm {
+    gap: 0.1rem;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+
+
+.search {
+    min-width: 250px;
+    height: 30px;
+}
+
+.btn {
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+}
+
+.bg-blue {
+    background-color: #2b79e4;
+}
+
+.text-white {
+    color: white;
+}
+
+.box-shadow {
+    box-shadow: 3px 3px black;
+}
+
+.larger-text {
+    font-size: xx-large;
+}
+
+.large-text {
+    font-size: large;
+}
+
+.bg-orange {
+    background-color: #ff9901;
+}
+
+.bg-green {
+    background-color: rgb(3, 190, 3);
+}
+
+.container{
+    width: 1028px;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.top-nav {
+    padding: 20px;
+    background-color: rgb(126, 125, 125);
+    margin-bottom: 20px;
+}
+
+main {
+    flex: 3;
+}
+
+.card1 {
+    background-color: white;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+aside {
+    flex: 2;
+    align-self: flex-start;
+}
+
+.definitionButton {
+    width: 300px;
+}

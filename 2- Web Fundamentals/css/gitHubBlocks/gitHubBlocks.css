@@ -1,0 +1,44 @@
+header {
+    text-align: center; 
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+#dojo {
+    margin: 20px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px
+}
+
+#dojo2 {
+    margin: 20px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+#dojo3 {
+    margin: 20px;
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px
+}
+
+body{
+    background-color: rgb(201, 200, 200);
+}

@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  font-family: 'Balsamiq Sans', sans-serif;
+}
+
+body {
+  background-color: #dddddd;
+}
+
+/* utility classes start */
+
+.container {
+  width: 1028px;
+  margin: 0 auto;
+}
+
+.no-gap-flex {
+  display: flex;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.align-start {
+  align-items: flex-start;
+}
+
+.gap-sm {
+  gap: 0.5rem;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+.btn {
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+}
+
+.arrow {
+  cursor: pointer;
+}
+
+.border {
+  border: 2px solid black;
+}
+
+.bg-orange {
+  background-color: #ff9901;
+}
+
+.bg-blue {
+  background-color: #2668c4;
+}
+
+.bg-red {
+  background-color: #cf2a27;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.border-none {
+  border: 0;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.text-white {
+  color: white;
+}
+
+.box-shadow {
+  box-shadow: 3px 3px black;
+}
+
+.rounded {
+  border-radius: 0.5rem;
+}
+
+h2.margin-bottom,
+img.margin-bottom {
+  margin-bottom: 0.5rem;
+}
+
+/* utility classes end */
+
+/* card classes start */
+
+.card {
+  border: 2px solid #999999;
+  background-color: white;
+  margin-bottom: 1.5rem;
+}
+
+.card-header {
+  background-color: #cf2a27;
+  color: white;
+  padding: 0.5rem 1.5rem;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+/* card classes end */
+
+/* header classes start */
+.main-header {
+  padding: 0.5rem 1.5rem;
+  border-bottom: 2px solid black;
+}
+
+.search {
+  border: 2px solid black;
+  padding: 0.5rem;
+}
+
+.brand-link {
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  font-size: x-large;
+}
+
+.logo {
+  width: 36px;
+}
+
+.secondary-header {
+  background-color: white;
+  padding: 3rem 0 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.nav-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-link {
+  color: black;
+  text-decoration: none;
+}
+
+.active {
+  color: red;
+  text-decoration: underline;
+}
+
+.circle {
+  padding: 1rem;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+/* header classes end */
+
+main {
+  flex: 3;
+}
+
+.title,
+.card-title {
+  margin: 0;
+}
+
+.up-votes {
+  align-self: flex-start;
+}
+
+.arrow {
+  width: 36px;
+}
+
+.flipped {
+  transform: rotate(180deg);
+}
+
+.post-image {
+  max-width: 100%;
+  display: block;
+}
+
+.icon {
+  width: 24px;
+}
+
+.text-muted {
+  color: gray;
+}
+
+aside {
+  flex: 2;
+  align-self: flex-start;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulating the DOM, part 2</title>
+</head>
+<body>
+    <h1>Manipulating the DOM, Part 2</h1>
+
+    <p id="intro"> An introduction to manipulating the DOM.</p>
+    <button type="button" onclick="changeIntroText()">
+        Change the Text above
+    </button>
+
+    <button type="button" onclick="highlightButton(this)">Highlight</button>
+
+    <h2>Rule of Thumb:</h2>
+    <p>
+        <strong>
+            If the element with the listener is the element your're
+         manipulating, use <code>this</code> if it is not, use
+          <code>querySelector</code> or <code>getElementbyId</code>
+        </strong>
+    </p>
+
+    <p>Jinja's Boops: <span id="jinja-count">0</span></p>
+    <button type="button" onclick="incrementBoops('jinja-count')">
+        Boop Jinja
+    </button>
+
+    <p>Feyonce Boops: <span id="feyonce-count">0</span></p>
+    <button type="button" onclick="incrementBoops('feyonce-count')">
+        Boop Feyonce
+    </button>
+
+    <p>Percy Boops: <span id="percy-count">0</span></p>
+    <button type="button "onclick="incrementBoops('percy-count')">
+        Boop Percy</button>
+
+    <script src="./script.js"></script>
+</body>
+</html>

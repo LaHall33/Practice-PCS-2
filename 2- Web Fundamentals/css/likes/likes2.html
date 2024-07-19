@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./likes2.css">
+    <link rel="stylesheet" href="./normalize.css">
+    <title>Likes 2</title>
+</head>
+<body>
+    <div class="container">
+        <div class="top-nav d-flex text-white">
+            <h1>Network</h1>    
+        </div>
+    </div>
+
+    <div class="middle-align"><h1>Your Feed</h1></div>
+
+    <div class="container d-flex">  
+        <aside>
+            <div class="card1 border">
+                <div class="card-body">
+                    <img src="./images/profile.png" alt="Blank Profile Photo">
+                    <div class="d-flex column">
+
+                        <p><a href="#">Add an avatar</a></p>
+                        <div>
+                            <h2 >James Doe</h2>
+                        </div>
+                    </div>       
+                </div>
+            </div>
+        </aside>
+
+        <main>
+            <div class="card1 border">
+                <div class="card-body">
+                    <div class="d-flex">
+                        <h2>Neil M</h2>
+        
+                        <div 
+                            class="d-flex">
+                            <p><span id="like-button">12</span> Like(s)</p>
+                            <button class="btn bg-orange box-shadow boldText" onclick="addingUp('like-button')">
+                            Like</button>
+                        </div>
+                       
+                       
+                    </div>
+                        <p> I just set up this new discord bot, let me know what
+                            you all think. <a href="#">link</a>
+                        </p>
+                </div>
+            </div>
+
+            <div class="card1 border">
+                <div class="card-body">
+                    <div class="d-flex">
+                        <h2>Nichole K</h2>
+        
+                        <div class="d-flex">
+                            <p><span id="like-button2">12</span> Like(s)</p>
+                            <button class="btn bg-orange box-shadow boldText" onclick="addingUp('like-button2')">
+                            Like</button>
+                        </div>
+                    </div>
+                        <p> Just finished my <a href="#">next comic</a>, check it out.
+                        </p>
+                </div>
+            </div>
+
+            <div class="card1 border">
+                <div class="card-body">
+                    <div class="d-flex">
+                        <h2>Jim R</h2>
+        
+                        <div class="d-flex">
+                            <p><span id="like-button3">9</span> Like(s)</p>
+                            <button class="btn bg-orange box-shadow boldText" onclick="addingUp('like-button3')">
+                            Like</button>
+                        </div>
+                    </div>
+                        <p> I can't stop listening to the <a href="#">new album</a>. Who else is liking it?
+                        </p>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

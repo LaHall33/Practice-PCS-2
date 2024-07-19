@@ -1,0 +1,73 @@
+ /* To change the font on the entire page */
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* to change the margins in the body */
+body {
+    margin: 0;
+}
+
+/* to change the background color of just the header */
+
+header {
+    background-color: rosybrown;
+}
+
+/* to change the margins for h1*/
+h1 {
+    margin: 0;
+}
+
+/* to remove bullet points or add them. use a child selecor(>) select none for nothing.  different types are in the drop down */
+nav > ul {
+    list-style-type: none;
+}
+
+/* to put the (li) horizontally instead of vertical. */
+nav > ul > li {
+    display: inline;
+}
+
+/* to add the dividers in the header */
+nav > ul > li::after {
+    content: '|';
+}
+
+h1 a {
+    text-decoration: none;
+    color: black;
+    font-size: 3rem;
+}
+
+a:link, 
+a:visited {
+    text-decoration: none;
+    color: green;
+}
+
+#intro {
+    background-color: burlywood;
+}
+
+#simple {
+    background-color: cornflowerblue;
+}
+
+#combinator {
+    background-color: burlywood;
+}
+
+/* Change the font size in the first letter of the first paragraph of each section. */
+
+section p::first-letter {
+    font-size: 2rem;
+}
+
+/* To add a line underneath the active words when hovering the mouse over it. */
+a:hover,
+a:active {
+    text-decoration: underline;
+    color: darkgreen;
+}
