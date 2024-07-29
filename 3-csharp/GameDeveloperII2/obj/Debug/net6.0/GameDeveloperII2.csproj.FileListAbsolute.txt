@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\bin\Debug\net6.0\GameDeveloperII2.exe
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\bin\Debug\net6.0\GameDeveloperII2.deps.json
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\bin\Debug\net6.0\GameDeveloperII2.runtimeconfig.json
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\bin\Debug\net6.0\GameDeveloperII2.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\bin\Debug\net6.0\GameDeveloperII2.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.AssemblyInfo.cs
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\refint\GameDeveloperII2.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\GameDeveloperII2.genruntimeconfig.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii2\obj\Debug\net6.0\ref\GameDeveloperII2.dll

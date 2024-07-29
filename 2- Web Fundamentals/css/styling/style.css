@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  font-family: 'Balsamiq Sans', sans-serif;
+}
+
+.container {
+    padding: 5px;
+}
+
+header {
+    padding: 0px auto;
+    font-size: x-large;
+}
+
+.middle {
+    font-size: larger;
+    
+}
+.black-bg {
+    background-color: black;
+}
+
+.purple-bg {
+    background-color: purple;
+}
+
+.lightblue-bg {
+    background-color: lightblue;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-aqua {
+    color: aqua;
+}
+
+.text-darkblue {
+    color: darkblue;
+}
+
+.align-middle {
+    text-align: center;
+}
+
+.end-align {
+    text-align: end;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.text-underline {
+    text-decoration: underline;
+}

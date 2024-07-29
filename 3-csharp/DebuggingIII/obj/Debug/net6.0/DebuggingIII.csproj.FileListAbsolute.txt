@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\bin\Debug\net6.0\DebuggingIII.exe
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\bin\Debug\net6.0\DebuggingIII.deps.json
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\bin\Debug\net6.0\DebuggingIII.runtimeconfig.json
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\bin\Debug\net6.0\DebuggingIII.dll
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\bin\Debug\net6.0\DebuggingIII.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.AssemblyInfo.cs
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.dll
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\refint\DebuggingIII.dll
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\DebuggingIII.genruntimeconfig.cache
+C:\Users\lanas\Desktop\wos\3-csharp\debuggingiii\obj\Debug\net6.0\ref\DebuggingIII.dll

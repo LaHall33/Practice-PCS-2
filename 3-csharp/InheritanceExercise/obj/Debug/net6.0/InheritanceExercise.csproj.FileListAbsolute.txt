@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\wos\3-csharp\inheritanceExercise\obj\Debug\net6.0\InheritanceExercise.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\wos\3-csharp\inheritanceExercise\obj\Debug\net6.0\InheritanceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\wos\3-csharp\inheritanceExercise\obj\Debug\net6.0\InheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\inheritanceExercise\obj\Debug\net6.0\InheritanceExercise.AssemblyInfo.cs
+C:\Users\lanas\Desktop\wos\3-csharp\inheritanceExercise\obj\Debug\net6.0\InheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\bin\Debug\net6.0\InheritanceExercise.exe
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\bin\Debug\net6.0\InheritanceExercise.deps.json
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\bin\Debug\net6.0\InheritanceExercise.runtimeconfig.json
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\bin\Debug\net6.0\InheritanceExercise.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\bin\Debug\net6.0\InheritanceExercise.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\obj\Debug\net6.0\InheritanceExercise.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\obj\Debug\net6.0\refint\InheritanceExercise.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\obj\Debug\net6.0\InheritanceExercise.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\obj\Debug\net6.0\InheritanceExercise.genruntimeconfig.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\inheritanceexercise\obj\Debug\net6.0\ref\InheritanceExercise.dll

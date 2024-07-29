@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\bin\Debug\net6.0\FundamentalsII.exe
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\bin\Debug\net6.0\FundamentalsII.deps.json
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\bin\Debug\net6.0\FundamentalsII.runtimeconfig.json
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\bin\Debug\net6.0\FundamentalsII.dll
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\bin\Debug\net6.0\FundamentalsII.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.AssemblyInfo.cs
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.dll
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\refint\FundamentalsII.dll
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\FundamentalsII.genruntimeconfig.cache
+C:\Users\lanas\Desktop\wos\3-csharp\fundamentalsii\obj\Debug\net6.0\ref\FundamentalsII.dll

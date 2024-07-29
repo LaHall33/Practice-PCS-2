@@ -1,0 +1,15 @@
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\bin\Debug\net6.0\ListsandArrays.exe
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\bin\Debug\net6.0\ListsandArrays.deps.json
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\bin\Debug\net6.0\ListsandArrays.runtimeconfig.json
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\bin\Debug\net6.0\ListsandArrays.dll
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\bin\Debug\net6.0\ListsandArrays.pdb
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.csproj.AssemblyReference.cache
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.AssemblyInfoInputs.cache
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.AssemblyInfo.cs
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.csproj.CoreCompileInputs.cache
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.dll
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\refint\ListsandArrays.dll
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.pdb
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ListsandArrays.genruntimeconfig.cache
+C:\users\lanas\desktop\wos\3-csharp\listsandarrays\obj\Debug\net6.0\ref\ListsandArrays.dll

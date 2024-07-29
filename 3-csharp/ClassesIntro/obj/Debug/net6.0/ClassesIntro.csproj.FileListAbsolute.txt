@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\bin\Debug\net6.0\ClassesIntro.exe
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\bin\Debug\net6.0\ClassesIntro.deps.json
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\bin\Debug\net6.0\ClassesIntro.runtimeconfig.json
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\bin\Debug\net6.0\ClassesIntro.dll
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\bin\Debug\net6.0\ClassesIntro.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.AssemblyInfo.cs
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.dll
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\refint\ClassesIntro.dll
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ClassesIntro.genruntimeconfig.cache
+C:\Users\lanas\Desktop\wos\3-csharp\ClassesIntro\obj\Debug\net6.0\ref\ClassesIntro.dll

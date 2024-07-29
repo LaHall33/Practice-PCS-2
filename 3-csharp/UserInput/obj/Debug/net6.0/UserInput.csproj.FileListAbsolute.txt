@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\bin\Debug\net6.0\UserInput.exe
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\bin\Debug\net6.0\UserInput.deps.json
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\bin\Debug\net6.0\UserInput.runtimeconfig.json
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\bin\Debug\net6.0\UserInput.dll
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\bin\Debug\net6.0\UserInput.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfo.cs
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.dll
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\refint\UserInput.dll
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.pdb
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\UserInput.genruntimeconfig.cache
+C:\Users\lanas\Desktop\wos\3-csharp\UserInput\obj\Debug\net6.0\ref\UserInput.dll

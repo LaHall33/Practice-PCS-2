@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\bin\Debug\net6.0\VariablesDataTypes.exe
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\bin\Debug\net6.0\VariablesDataTypes.deps.json
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\bin\Debug\net6.0\VariablesDataTypes.runtimeconfig.json
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\bin\Debug\net6.0\VariablesDataTypes.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\bin\Debug\net6.0\VariablesDataTypes.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.AssemblyInfo.cs
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\refint\VariablesDataTypes.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\VariablesDataTypes.genruntimeconfig.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Variablesdatatypes\obj\Debug\net6.0\ref\VariablesDataTypes.dll

@@ -1,0 +1,15 @@
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\bin\Debug\net6.0\InterfacesAndAbstractClassesExercise.exe
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\bin\Debug\net6.0\InterfacesAndAbstractClassesExercise.deps.json
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\bin\Debug\net6.0\InterfacesAndAbstractClassesExercise.runtimeconfig.json
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\bin\Debug\net6.0\InterfacesAndAbstractClassesExercise.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\bin\Debug\net6.0\InterfacesAndAbstractClassesExercise.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.AssemblyInfo.cs
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\refint\InterfacesAndAbstractClassesExercise.dll
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.pdb
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\InterfacesAndAbstractClassesExercise.genruntimeconfig.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\Interfacesandabstractclassesexercise\obj\Debug\net6.0\ref\InterfacesAndAbstractClassesExercise.dll

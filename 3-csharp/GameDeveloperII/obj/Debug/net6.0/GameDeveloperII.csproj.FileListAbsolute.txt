@@ -1,0 +1,5 @@
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii\obj\Debug\net6.0\GameDeveloperII.csproj.AssemblyReference.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii\obj\Debug\net6.0\GameDeveloperII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii\obj\Debug\net6.0\GameDeveloperII.AssemblyInfoInputs.cache
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii\obj\Debug\net6.0\GameDeveloperII.AssemblyInfo.cs
+C:\Users\lanas\Desktop\WOS\3-csharp\gamedeveloperii\obj\Debug\net6.0\GameDeveloperII.csproj.CoreCompileInputs.cache
